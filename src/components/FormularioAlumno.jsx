@@ -56,7 +56,7 @@ function FormularioAlumno({ agregarAlumno, alumnoEditando }) {
         value={asignatura}
         onChange={(e) => setAsignatura(e.target.value)}
       />
-      <label >Promedio (0.0 - 7.0):</label>
+      <label >Promedio (1.0 - 7.0):</label>
       <input
         type="number"
         step="0.1"
