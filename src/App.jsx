@@ -50,7 +50,7 @@ function App() {
 
   return (
     <div className="contenedor">
-      <h1>Evaluación de Alumnos</h1>
+      <h1>Evaluación de alumnos</h1>
 
       {/* Formulario para agregar o editar alumnos */}
       <FormularioAlumno
